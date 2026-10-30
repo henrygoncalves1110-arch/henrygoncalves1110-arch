@@ -29,11 +29,7 @@
 ## 🍒 POWER-UPS (Skills)
  
 <div align="center">
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
- 
+<img src="https://skillicons.dev/icons?i=html,css,git,github,mysql&theme=dark" alt="Skills" />
 </div>
 ---
  
@@ -53,8 +49,9 @@ O Pac-Man come os "pontinhos" do meu gráfico de contribuições. Quanto mais eu
 ## 🏆 HIGH SCORES (Estatísticas)
  
 <div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=henrygoncalves1110-arch&show_icons=true&theme=dark&hide_border=true&title_color=FFE600&icon_color=FFE600)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalves1110-arch&layout=compact&theme=dark&hide_border=true&title_color=FFE600)
+![Seguidores](https://img.shields.io/github/followers/henrygoncalves1110-arch?style=for-the-badge&color=FFE600&labelColor=000000)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhenrygoncalves1110-arch&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&color=FFE600&labelColor=000000)
+![Último commit](https://img.shields.io/github/last-commit/henrygoncalves1110-arch/CellGO?style=for-the-badge&color=FFE600&labelColor=000000)
  
 </div>
 ---
@@ -71,7 +68,7 @@ O Pac-Man come os "pontinhos" do meu gráfico de contribuições. Quanto mais eu
 ## 📡 CONECTE-SE
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henrygoncalves1110-arch)
+[![GitHub](https://img.shields.io/badge/GitHub-henrygoncalves1110--arch-181717?style=for-the-badge)](https://github.com/henrygoncalves1110-arch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalveshenry94@gmail.com)
  
 ### `GAME OVER? NÃO. CONTINUE? ▶ SIM` 👾
