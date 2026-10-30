@@ -66,7 +66,7 @@ O Pac-Man come os "pontinhos" do meu gráfico de contribuições. Quanto mais eu
 | Fase | Projeto | Descrição | Tech |
 |:----:|---------|-----------|------|
 | 1️⃣ | [Santo-Taquito](https://github.com/henrygoncalves1110-arch/Santo-Taquito.git) | Projeto de um site para um restaurante de comida mexicana | HTML |
-| 2️⃣ | [Projeto Dois](https://github.com/SEU-USUARIO/projeto-dois) | Descrição curta | `Python` |
+| 2️⃣ | [Cell-Go](https://github.com/henrygoncalves1110-arch/CellGO.git) | Projeto de uma empresa que vende e revende celulares | SQL |
 | 3️⃣ | [Projeto Três](https://github.com/SEU-USUARIO/projeto-tres) | Descrição curta | `TypeScript` |
  
 ---
