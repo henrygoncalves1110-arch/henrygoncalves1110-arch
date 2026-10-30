@@ -12,18 +12,18 @@
  
 ```text
 ╔══════════════════════════════════╗
-║  NOME ........ SEU NOME          ║
-║  CLASSE ...... Desenvolvedor(a)  ║
+║  NOME ........ Henry             ║
+║  CLASSE ...... Desenvolvedor     ║
 ║  BASE ........ São Paulo, BR     ║
-║  VIDAS ....... ❤️❤️❤️            ║
+║  VIDAS ....... ❤️❤️❤️           ║
 ║  PONTOS ...... ∞                 ║
 ╚══════════════════════════════════╝
 ```
  
-- 🔭 Atualmente trabalhando em: **seu projeto aqui**
-- 🌱 Aprendendo: **tecnologia nova**
-- 💬 Pergunte-me sobre: **seus temas**
-- 📫 Fale comigo: **seu@email.com**
+- 🔭 Atualmente trabalhando em: **Cell Go**
+- 🌱 Aprendendo: **Analise e desenvolvimento de sistemas**
+- 💬 Pergunte-me sobre: **Html, Git e Github**
+- 📫 Fale comigo: **goncalveshenry94@gmail.com**
 ---
  
 ## 🍒 POWER-UPS (Skills)
